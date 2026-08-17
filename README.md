@@ -97,17 +97,6 @@ Full case studies, with process and results, live at **[krampl.dev](https://kram
 
 Computer science education, with a university thesis that grew into a real, publicly launched product: [Chalkuj](https://chalkuj.sk), a restaurant discovery platform now live with real venues and users. I learn fastest by shipping something real.
 
-## 📊 GitHub activity
-
-Most of my paid work lives in private client repos, so the numbers below are the small tip of it: a native macOS menu bar app for watching Claude Code sessions, a Homebrew tap, and a couple of older experiments.
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kavicka&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kavicka&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
-
-</div>
-
 ## 📫 Let's talk
 
 I'm based in Bratislava and work with Slovak and Czech companies, remote-friendly beyond that. If you need a product designed and built by one person who stays through launch, get in touch.
