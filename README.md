@@ -12,16 +12,16 @@
 
 <br />
 
-I build AI products end to end: RAG systems, LLM apps and agents, together with the backend, interface and integrations that make them work in production, not just in a demo. That sits on 5+ years of shipping full-stack software for clients.
+I build internal apps, CRMs and web platforms end to end: interface, backend and the integrations that make them work in production, not just in a demo. That's 5+ years of shipping full-stack software for clients.
 
-I'm also going deeper into machine learning, from the math and autograd up to a GPT trained from scratch, fine-tuning and retrieval. The roadmap is public: **[ai-ml-learning](https://github.com/kavicka/ai-ml-learning)**.
+On top of that I build AI products: RAG systems, LLM apps and agents. I'm also going deeper into machine learning, from the math and autograd up to a GPT trained from scratch, fine-tuning and retrieval. The roadmap is public: **[ai-ml-learning](https://github.com/kavicka/ai-ml-learning)**.
 
 ## What I do
 
+- **Internal apps & web platforms** – custom CRMs, booking systems, internal tools, multi-tenant SaaS, 3D configurators
 - **AI engineering** – RAG systems, LLM apps, agents and MCP servers, with evals, tracing and guardrails
 - **Machine learning** – PyTorch training loops, fine-tuning small models with LoRA, embeddings and retrieval
 - **AI-assisted development** – Claude Code and Codex every day, with my own skills and MCP servers
-- **Web apps & platforms** – custom CRMs, booking systems, internal tools, multi-tenant SaaS, 3D configurators
 - **E-commerce** – Shopify storefronts, custom backends, carrier and payment integrations
 - **Mobile apps** – React Native / Expo, shipped to the App Store and Google Play
 - **Product & brand design** – identity, UI, and design systems in Figma, built 1:1 in code
@@ -29,22 +29,6 @@ I'm also going deeper into machine learning, from the math and autograd up to a 
 Selected work and case studies: **[krampl.dev](https://krampl.dev)**
 
 ## Stack
-
-**AI & ML**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
-![LanceDB](https://img.shields.io/badge/LanceDB-5B4FE9?style=flat-square)
-![Docling](https://img.shields.io/badge/Docling-000000?style=flat-square)
-![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white)
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square)
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white)
-![Codex](https://img.shields.io/badge/Codex-412991?style=flat-square)
 
 **Frontend & design**
 
@@ -77,6 +61,22 @@ Selected work and case studies: **[krampl.dev](https://krampl.dev)**
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![BullMQ](https://img.shields.io/badge/BullMQ-E0234E?style=flat-square)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+**AI & ML**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![LanceDB](https://img.shields.io/badge/LanceDB-5B4FE9?style=flat-square)
+![Docling](https://img.shields.io/badge/Docling-000000?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-412991?style=flat-square)
 
 **Mobile, desktop & commerce**
 
@@ -114,7 +114,7 @@ Selected work and case studies: **[krampl.dev](https://krampl.dev)**
 
 ## Let's work together
 
-Based in Bratislava, working with clients across Slovakia, Czechia and remotely beyond. Open to AI engineering roles and new projects, from a single RAG pipeline to a full product.
+Based in Bratislava, working with clients across Slovakia, Czechia and remotely beyond. Open to full-stack and AI engineering roles and new projects, from a single internal tool to a full product.
 
 <div align="center">
 
