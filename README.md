@@ -2,7 +2,7 @@
 
 # Adam Krampl
 
-**Freelance product designer & full-stack developer**
+**Full-stack developer & AI engineer**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-krampl.dev-2F81F7?style=flat-square&logo=vercel&logoColor=white)](https://krampl.dev)
 [![Email](https://img.shields.io/badge/Email-adam%40krampl.dev-2F81F7?style=flat-square&logo=gmail&logoColor=white)](mailto:adam@krampl.dev)
@@ -12,21 +12,39 @@
 
 <br />
 
-I design and build products end to end: brand, interface, backend, and the integrations that make software work in production, not just in a demo. Payments, shipping carriers, auth, AI pipelines, whatever the job needs.
+I build AI products end to end: RAG systems, LLM apps and agents, together with the backend, interface and integrations that make them work in production, not just in a demo. That sits on 5+ years of shipping full-stack software for clients.
 
-One person from first sketch to launch, and still around after it.
+I'm also going deeper into machine learning, from the math and autograd up to a GPT trained from scratch, fine-tuning and retrieval. The roadmap is public: **[ai-ml-learning](https://github.com/kavicka/ai-ml-learning)**.
 
 ## What I do
 
-- **Web apps & platforms** – custom CRMs, booking systems, internal tools, multi-tenant SaaS
+- **AI engineering** – RAG systems, LLM apps, agents and MCP servers, with evals, tracing and guardrails
+- **Machine learning** – PyTorch training loops, fine-tuning small models with LoRA, embeddings and retrieval
+- **AI-assisted development** – Claude Code and Codex every day, with my own skills and MCP servers
+- **Web apps & platforms** – custom CRMs, booking systems, internal tools, multi-tenant SaaS, 3D configurators
 - **E-commerce** – Shopify storefronts, custom backends, carrier and payment integrations
 - **Mobile apps** – React Native / Expo, shipped to the App Store and Google Play
 - **Product & brand design** – identity, UI, and design systems in Figma, built 1:1 in code
-- **3D & AI** – product configurators in Three.js, AI pipelines for image and document processing
 
 Selected work and case studies: **[krampl.dev](https://krampl.dev)**
 
 ## Stack
+
+**AI & ML**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![LanceDB](https://img.shields.io/badge/LanceDB-5B4FE9?style=flat-square)
+![Docling](https://img.shields.io/badge/Docling-000000?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-412991?style=flat-square)
 
 **Frontend & design**
 
@@ -53,9 +71,6 @@ Selected work and case studies: **[krampl.dev](https://krampl.dev)**
 ![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=flat-square&logo=livewire&logoColor=white)
 ![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square&logo=inertia&logoColor=white)
 ![Filament](https://img.shields.io/badge/Filament-FDAE4B?style=flat-square&logo=filament&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -63,16 +78,13 @@ Selected work and case studies: **[krampl.dev](https://krampl.dev)**
 ![BullMQ](https://img.shields.io/badge/BullMQ-E0234E?style=flat-square)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
-**Mobile, desktop, commerce & AI**
+**Mobile, desktop & commerce**
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
-![Paper / Spigot](https://img.shields.io/badge/Paper_%2F_Spigot-ED8106?style=flat-square&logo=spigotmc&logoColor=white)
 ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
 
 **Infra & testing**
 
@@ -102,7 +114,7 @@ Selected work and case studies: **[krampl.dev](https://krampl.dev)**
 
 ## Let's work together
 
-Based in Bratislava, working with clients across Slovakia, Czechia and remotely beyond. Open to new projects, from a single landing page to a full product.
+Based in Bratislava, working with clients across Slovakia, Czechia and remotely beyond. Open to AI engineering roles and new projects, from a single RAG pipeline to a full product.
 
 <div align="center">
 
